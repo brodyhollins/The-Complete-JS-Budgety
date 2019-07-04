@@ -6,8 +6,6 @@ A user can select their an expense or income to add, each item will be added to 
 FEATURES:
 -DOM manipulation
 -Event Listeners
--
--
 
 LANGUAGES:
 -HTML
